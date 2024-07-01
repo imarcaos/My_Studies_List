@@ -81,4 +81,12 @@ Deixo uma lista de tecnologias que uso ou já usei por ordem de maior conhecimen
     - Para descarregar a library do MySQL Connector, fazemos uma pesquisa por MySQL Connector, e fazemos download do `JDBC Driver for MySQL (Connector/J)` > selecionamos "Platform Independent" > ficheiro zip (se preferir) > em baixo da página "No thanks, just start my download" > Extrair.
 	- Agora importamos para dentro do nosso projeto:
 		- BT DT em cima de "Libraries" > Add JAR/Folder... > buscamos o ficheiro extraído: `mysql-connector-j-version.jar`.
-- 
+- Conexão com a DB MySQL
+- Dentro da diretoria `models` vamos criar uma classe "Conexao" ou outro nome.
+- Dentro da classe criamos 4 variáveis do tipo `String` para conexão:
+	- `classDriver`, `url`, `user`, `pass`.
+	- para encontrar o formato de `String` vamos ao site [Oficial do MySQL](https://dev.mysql.com/doc/) > Documentations > Rolamos a página para baixo até encontrar "Connector/J" e entrar > Clicamos em "Connector/J Examples" > Clicamos na primeira opção Example 7.1, “Connector/J: Obtaining a connection from the DriverManager” (poderá ser outra versão).
+	- Copiamos a String Driver `com.mysql.cj.jdbc.Driver` para a nossa variável `classDriver` 
+	- Copiamos a String Connection `jdbc:mysql://localhost/test` para a nossa variável `url`, onde está "teste" será o nome da nossa DB `proj1_java`.
+- Criamos o método para efetuar a ligação e outro para fechar.
+- Para testar nossa conexão, foi criado um novo package de testes e uma classe de teste dentro.
