@@ -90,3 +90,5 @@ Deixo uma lista de tecnologias que uso ou já usei por ordem de maior conhecimen
 	- Copiamos a String Connection `jdbc:mysql://localhost/test` para a nossa variável `url`, onde está "teste" será o nome da nossa DB `proj1_java`.
 - Criamos o método para efetuar a ligação e outro para fechar.
 - Para testar nossa conexão, foi criado um novo package de testes e uma classe de teste dentro.
+- Criando a classe UserModel no "models"
+	- adicionamos os atributos referentes aos campos que temos na tabela Users da nossa BD.
