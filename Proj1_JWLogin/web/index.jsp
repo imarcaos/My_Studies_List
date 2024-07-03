@@ -10,8 +10,20 @@
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
+        <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+        <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/jquery-3.7.1.min.js"></script>
+        
     </head>
     <body>
         <h1>Hello World!, I'm in JSP Page</h1>
+        <button class="btn btn-success">teste</button>
+        
+        <script>            
+            $(document).ready(function() {
+                alert("Ola JQuery here");
+            });
+        </script>
+        
     </body>
 </html>

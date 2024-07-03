@@ -92,3 +92,14 @@ Deixo uma lista de tecnologias que uso ou já usei por ordem de maior conhecimen
 - Para testar nossa conexão, foi criado um novo package de testes e uma classe de teste dentro.
 - Criando a classe UserModel no "models"
 	- adicionamos os atributos referentes aos campos que temos na tabela Users da nossa BD.
+- Adicionando Bibliotecas JQuery e Bootstrap ao projeto.
+    - Dentro da diretoria "Web Pages", criamos uma pasta como o nome:
+	- "assets" e dentro dela mais 2 pastas:
+		- js  (ficheiros JavaScript) 
+		- css  (ficheiros CSS)
+	- arrastamos o ficheiros:
+	- JQuery para a pasta "js"
+	-  Na pasta do extraída anteriormente Bootstrap, dentro desta pasta em css, buscamos o ficheiro `bootstrap.min` e arrastamos para a nossa pasta "css".
+	- Ainda na pasta do Bootstrap, dentro de js `bootstrap.bundle.min` arrastamos para a nossa "js".
+	- Agora criamos um botão "teste" no nosso `index.jsp`  e uma pequena função script para testar os nosso scripts JQuery e Bootstrap.
+- 
