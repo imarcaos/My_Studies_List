@@ -16,12 +16,14 @@
         
     </head>
     <body>
-        <h1>Hello World!, I'm in JSP Page</h1>
-        <button class="btn btn-success">teste</button>
+        <form action="UserController" method="POST">
+            <input type="text" name="user">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+        
         
         <script>            
-            $(document).ready(function() {
-                alert("Ola JQuery here");
+            $(document).ready(function() {;
             });
         </script>
         

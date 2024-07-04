@@ -102,4 +102,7 @@ Deixo uma lista de tecnologias que uso ou já usei por ordem de maior conhecimen
 	-  Na pasta do extraída anteriormente Bootstrap, dentro desta pasta em css, buscamos o ficheiro `bootstrap.min` e arrastamos para a nossa pasta "css".
 	- Ainda na pasta do Bootstrap, dentro de js `bootstrap.bundle.min` arrastamos para a nossa "js".
 	- Agora criamos um botão "teste" no nosso `index.jsp`  e uma pequena função script para testar os nosso scripts JQuery e Bootstrap.
-- 
+- Criando o Controller Servlet
+	- Intermediário entre a camada model e a view.
+	- BT DT em cima de "controller" > new Servlet... > dei o nome: "UserController" > Next > Finish.
+	- Criamos um formulário no ficheiro "index.jsp" para testar o método "POST".
