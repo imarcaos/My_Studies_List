@@ -106,3 +106,7 @@ Deixo uma lista de tecnologias que uso ou já usei por ordem de maior conhecimen
 	- Intermediário entre a camada model e a view.
 	- BT DT em cima de "controller" > new Servlet... > dei o nome: "UserController" > Next > Finish.
 	- Criamos um formulário no ficheiro "index.jsp" para testar o método "POST".
+- Adicionando uma Navbar ao projeto e estilizá-la.
+	- Adicionamos um menu com os botões para:
+		- Home e Users
+	- Uma folha de Estilo "main.css" dentro da pasta "css"
