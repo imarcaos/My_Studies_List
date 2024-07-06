@@ -110,3 +110,12 @@ Deixo uma lista de tecnologias que uso ou já usei por ordem de maior conhecimen
 	- Adicionamos um menu com os botões para:
 		- Home e Users
 	- Uma folha de Estilo "main.css" dentro da pasta "css"
+- Fui adicionar novas bibliotecas e consegui quebrar este projeto. (2024-07-06)
+    - Já ia a cerca de 70% do projeto pronto e aparece-me este erro:
+    - `caminho_do_projeto\nbproject\build-impl.xml:1033: The module has not been deployed. See the server log for details`.
+    - Fiz várias pesquisas desde alterar o "context.xml", desinstalar o servidor TomCat
+    - Em uma das explicações foi sugerido desinstalar o servidor TomCat e instalar novamente e criar um novo projeto (sim imagina o trabalho), já estou a horas aqui (coisa de iniciante?)
+    - O certo foi que depois de reinstalar o servidor Tomcat já consigo criar novos projetos e executá-los.
+    - Um grande erro que cometi, utilizar "Branch" no Git,, talvez conseguisse manter o projeto original intacto.
+    - Como até o momento não sei outra forma de resolver este erro, vou criar um novo projeto e tentar reaproveitar o código do anterior. Agora irei trabalhar com "Branch", bom para praticar, só utilizei quando estudei sobre Git e Github.
+    

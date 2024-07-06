@@ -14,13 +14,14 @@
         <link href="assets/css/main.css" rel="stylesheet" type="text/css"/>
         <script src="assets/js/bootstrap.bundle.min.js"></script>
         <script src="assets/js/jquery-3.7.1.min.js"></script>
+        <script src="assets/js/main.js" type="text/javascript"></script>
     </head>
     <body>
         <nav>
             <ul>
                 <li><h5>PROJETO JW_LOGIN</h5></li>
                 <li><a href="index.jsp">Home</a></li>
-                <li><span>Users</span></li>
+                <li><span id="btn_getAllUsers">Users</span></li>
             </ul>
 
         </nav>

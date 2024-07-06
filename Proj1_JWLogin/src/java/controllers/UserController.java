@@ -1,9 +1,6 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/Servlet.java to edit this template
- */
 package controllers;
 
+import dao.DaoUser;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
@@ -16,7 +13,7 @@ import java.io.PrintWriter;
  *
  * @author Marcos Melo
  */
-@WebServlet(name = "UserController", urlPatterns = {"/UserController"})
+@WebServlet(name = "UserController", urlPatterns = {"/UserController", "GetAllUsers"})
 public class UserController extends HttpServlet {
 
     /**
@@ -46,7 +43,19 @@ public class UserController extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
-        
+        response.setContentType("text/html;charset=UTF-8");
+        String accao = request.getParameter("accao");
+        PrintWriter out = response.getWriter();
+        DaoUser daoUser = new DaoUser();
+        //ObjectMapper mapper = new ObjectMapper();
+        switch (accao) {
+            case "getAllUsers":
+                //out.print(mapper.writeValueAsString(daoUser.getAllUsers()));
+                break;
+            default:
+                throw new AssertionError();
+        }
+                
     }
 
     /**
