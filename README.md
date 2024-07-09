@@ -30,7 +30,7 @@ Deixo uma lista de tecnologias que uso ou já usei por ordem de maior conhecimen
 - Mais Ferramentas antigas: Flash (ActionScript), Dreamwearver, Fireworks, Microsoft FrontPage
 
 ### Log:
-2024-07-08 - Devido a erros que tive no Projeto 1 Java Web, ao invés de agrupar todos os projetos dentro de um repositório (este), para o tipo de estudo que estou a fazer tive optar por criar repositórios individuais para cada projeto, fica mais fácil de gerir e fazer "branch". No Projeto 1 tem a descrição do erro que fez-me mudar a organização do meu GitHub.
+2024-07-08 - Devido a erros que tive no Projeto 1 Java Web, ao invés de agrupar todos os projetos dentro de um repositório (este), para o tipo de estudo que estou a fazer, tive optar por criar repositórios individuais para cada projeto, fica mais fácil de gerir e fazer "branch". No Projeto 1 tem a descrição do erro que fez-me mudar a organização do meu GitHub.
 
 
 ### Lista de Projetos:
