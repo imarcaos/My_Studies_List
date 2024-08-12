@@ -34,4 +34,21 @@ Deixo uma lista de tecnologias que uso ou já usei por ordem de maior conhecimen
 
 
 ### Lista de Projetos:
-- Projeto 1  - [Projeto Web MVC CRUD, MySQL, Tomcat, Servlet, JSP - Netbeans IDE](https://github.com/imarcaos/Java_proj1_JWLogin).
+- Projeto 1 - Java Web - Tela de Login
+    - [Projeto Web MVC CRUD, MySQL, Tomcat, Servlet, JSP - Netbeans IDE](https://github.com/imarcaos/Java_proj1_JWLogin).
+    - Início: 2024-06-30
+    - Ferramentas:
+        - JDK 21 LTS
+        - IDE Netbeans 18
+        - Tomcat Servidor Web 10.1
+        - MySQL Base de Dados (MariaDB 10.4.32)
+        - Dbeaver SGBD
+- Projeto 2 - Java Web - Agenda de Contacto
+    - [Projeto Java Web Servlet - JSP - JDBC - MySQL - MVC](https://github.com/imarcaos/JW_Contact_Agenda)
+    - Início: 2024-07-16
+    - Ferramentas:
+        - JDK 21 LTS
+        - IDE Netbeans 18
+        - Tomcat Servidor Web 10.1
+        - MySQL Base de Dados (MariaDB 10.4.32)
+        - Dbeaver SGBD
