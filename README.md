@@ -14,26 +14,34 @@ Serve este respositório para manter os meus estudos, pesquisas e projetos nas d
 - Mais Ferramentas antigas: Flash (ActionScript), Dreamwearver, Fireworks, Microsoft FrontPage
 
 ### Log:
+2024-10-04 - estou atualizando a lista aos poucos, portanto ainda está no início .
 2024-10-04 - alterei o nome do repositório e passo a listar todos os meus estudos aqui
 2024-07-08 - repositório inicial de todos os projetos java.
 
+<hr>
 
 ### Lista Java:
-- Java Web - Tela de Login
-    - [Projeto Web MVC CRUD, MySQL, Tomcat, Servlet, JSP - Netbeans IDE](https://github.com/imarcaos/Java_proj1_JWLogin).
-    - Início: 2024-06-30
-    - Ferramentas:
-        - JDK 21 LTS
-        - IDE Netbeans 18
-        - Tomcat Servidor Web 10.1
-        - MySQL Base de Dados (MariaDB 10.4.32)
-        - Dbeaver SGBD
-- Java Web - Agenda de Contacto
-    - [Projeto Java Web Servlet - JSP - JDBC - MySQL - MVC](https://github.com/imarcaos/JW_Contact_Agenda)
-    - Início: 2024-07-16
-    - Ferramentas:
-        - JDK 21 LTS
-        - IDE Netbeans 18
-        - Tomcat Servidor Web 10.1
-        - MySQL Base de Dados (MariaDB 10.4.32)
-        - Dbeaver SGBD
+#### Java Web - Tela de Login
+- [Projeto Web MVC CRUD, MySQL, Tomcat, Servlet, JSP - Netbeans IDE](https://github.com/imarcaos/Java_proj1_JWLogin).
+- Início: 2024-06-30
+- Ferramentas:
+    - JDK 21 LTS
+    - IDE Netbeans 18
+    - Tomcat Servidor Web 10.1
+    - MySQL Base de Dados (MariaDB 10.4.32)
+    - Dbeaver SGBD
+#### Java Web - Agenda de Contacto
+- [Projeto Java Web Servlet - JSP - JDBC - MySQL - MVC](https://github.com/imarcaos/JW_Contact_Agenda)
+- Início: 2024-07-16
+- Ferramentas:
+    - JDK 21 LTS
+    - IDE Netbeans 18
+    - Tomcat Servidor Web 10.1
+    - MySQL Base de Dados (MariaDB 10.4.32)
+    - Dbeaver SGBD
+
+<hr>
+
+### Lista Python:
+#### Python - códigos das aulas da UFCD 10793 - Fundamentos de Python
+- https://github.com/imarcaos/python_ufcd10793_iefp
