@@ -14,10 +14,10 @@ Serve este respositório para manter uma lista dos meus estudos, pesquisas e pro
 - Mais Ferramentas antigas: Flash (ActionScript), Dreamwearver, Fireworks, Microsoft FrontPage
 
 ### Log:
-2024-11-11 - Iniciei a lista de Python, JavaScript e Git, adição também no Java
-2024-10-04 - estou atualizando a lista aos poucos, portanto ainda está no início .
-2024-10-04 - alterei o nome do repositório e passo a listar todos os meus estudos aqui
-2024-07-08 - repositório inicial de todos os projetos java.
+* 2024-11-11 - Iniciei a lista de Python, JavaScript e Git, adição também no Java
+* 2024-10-04 - estou atualizando a lista aos poucos, portanto ainda está no início.
+* 2024-10-04 - alterei o nome do repositório e passo a listar todos os meus estudos aqui
+* 2024-07-08 - repositório inicial de todos os projetos java.
 
 <hr>
 
