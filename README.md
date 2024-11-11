@@ -72,12 +72,13 @@ Serve este respositório para manter uma lista dos meus estudos, pesquisas e pro
 <hr>
 
 ### Lista Python:
+#### Python - Python Avançado - UFCD 10794 - códigos das aulas
+- https://github.com/imarcaos/python_avancado_ufcd10794_iefp
+- Início: 2024-10-29
+
 #### Python - Fundamentos de Python - UFCD 10793 - códigos das aulas
 - https://github.com/imarcaos/python_ufcd10793_iefp
 - Início: 2024-09-19
-
-#### Python - Python Avançado - UFCD 10794 - códigos das aulas
-- https://github.com/imarcaos/python_avancado_ufcd10794_iefp
 
 #### Python - Beginning in Python - Conceitos Básicos
 - https://github.com/imarcaos/Python-Class
